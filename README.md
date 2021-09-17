@@ -30,9 +30,11 @@ Controle de versão GIT instalado na sua máquina.
 Conta no GitHub para o armazenamento do seu projeto na nuvem.
 Conta no Heroku para o deploy do projeto na nuvem
 
- 
+Tecnologias utilizadas: 
+
 * Java
 * Maven
 * JPA
 * H2
 * Heroku
+* Postman
