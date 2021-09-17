@@ -1,15 +1,15 @@
-#Project using API Rest with Springboot
+**Project using API Rest with Springboot**
 
 Foi desenvolvido um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
 Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
 
-Setup inicial de projeto com o Spring Boot Initialzr
-Criação de modelo de dados para o mapeamento de entidades em bancos de dados
-Desenvolvimento de operações de gerenciamento de usuários (Cadastro, leitura, atualização e remoção de pessoas de um sistema).
-Desenvolvimento de testes unitários para validação das funcionalidades
-Implantação do sistema na nuvem através do Heroku.
-Para executar o projeto no terminal, digite o seguinte comando:
+* Setup inicial de projeto com o Spring Boot Initialzr
+* Criação de modelo de dados para o mapeamento de entidades em bancos de dados
+* Desenvolvimento de operações de gerenciamento de usuários (Cadastro, leitura, atualização e remoção de pessoas de um sistema).
+* Desenvolvimento de testes unitários para validação das funcionalidades
+* Implantação do sistema na nuvem através do Heroku.
+* Para executar o projeto no terminal, digite o seguinte comando:
 
 ```mvn spring-boot:run```
 
@@ -27,8 +27,8 @@ Conta no GitHub para o armazenamento do seu projeto na nuvem.
 Conta no Heroku para o deploy do projeto na nuvem
 
  
--Java
--Maven
--JPA
--H2
--Heroku
+* Java
+* Maven
+* JPA
+* H2
+* Heroku
